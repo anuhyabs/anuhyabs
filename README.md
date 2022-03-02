@@ -22,6 +22,6 @@ You can connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/anuhyabs/)
 - [Email](anuhyabs@gmail.com)
 
-Skills:
-Languages: Python, R, JAVA, SQL
-IDE and Tools: Tableau, Jupyter, Spyder, R Studio, GIT, Linux, Eclipse, JIRA, MS Office, Informatica MDM, SOAP UI
+##Skills:
+- Languages: Python, R, JAVA, SQL
+- IDE and Tools: Tableau, Jupyter, Spyder, R Studio, GIT, Linux, Eclipse, JIRA, MS Office, Informatica MDM, SOAP UI

@@ -7,11 +7,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
--->
 - :mortar_board: I have a Masters in Data Science from University of Washington
 - :office: I work at Katana Graph.
 - 🌱 I’m currently learning Graph Machine Learning.
 - 😄 Pronouns: she/her
+-->
 
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/anuhyabs/)
